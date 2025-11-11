@@ -1,0 +1,117 @@
+</li>
+                <li className='flex items-center gap-3 mx-2 p-2'><FaRegMessage />Enquries</li>
+                
+                <ul className={`${dMenu==2 ? '' : 'hidden'}`}>
+                
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Contact Enquiry</li>
+                        
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Newsletters</li>
+                        
+                </ul>
+                <li className='flex items-center gap-3 mx-2 p-2'><IoMdColorPalette />Color</li>
+                <ul className={`${dMenu==3 ? '' : 'hidden'}`}>
+                
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Add Color</li>
+                        
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />View Color</li>
+                        
+                    
+                </ul>
+                <li className='flex items-center gap-3 mx-2 p-2'><SiMaterialdesignicons />Materials</li>
+                <ul className={`${dMenu==4 ? '' : 'hidden'}`}>
+                    
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Add Materials</li>
+                
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />View Materials</li>
+                
+                    
+                </ul>
+                <li className='flex items-center gap-3 mx-2 p-2'><TbCategoryPlus />Parent Category</li>
+                <ul className={`${dMenu==5 ? '' : 'hidden'}`}>
+                    
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Add Category</li>
+                
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />View Category</li>
+                        
+                
+                </ul>
+                <li className='flex items-center gap-3 mx-2 p-2'><TbCategoryPlus />Sub Parent Category</li>
+                <ul className={`${dMenu==6 ? '' : 'hidden'}`}>
+                    
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Add Sub Category</li>
+                        
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />View Sub Category</li>
+                        
+                    
+                </ul>
+                <li className='flex items-center gap-2 mx-2 p-2'><TbCategoryPlus />SubSubParent Category</li>
+                <ul className={`${dMenu==7 ? '' : 'hidden'}`}>
+                    
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Add Sub Sub Category</li>
+                        
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />View Sub Sub Category</li>
+                        
+                    
+                </ul>
+                <li className='flex items-center gap-3 mx-2 p-2'><SlHandbag />Products</li>
+                <ul className={`${dMenu==8 ? '' : 'hidden'}`}>
+                    
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Add Product</li>
+                        
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />View Product</li>
+                        
+                    
+                </ul>
+                <li className='flex items-center gap-3 mx-2 p-2'><FaClockRotateLeft />Why Choose Us</li>
+                <ul className={`${dMenu==9 ? '' : 'hidden'}`}>
+                
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Add Why Choose Us</li>
+                      
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />View Why Choose Us</li>
+                        
+                    
+                </ul>
+                <li className='flex items-center gap-3 mx-2 p-2'><MdOutlineBorderColor />Orders</li>
+                <ul className={`${dMenu==10 ? '' : 'hidden'}`}>
+                    
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Order</li>
+                
+                
+                </ul>
+                <li className='flex items-center gap-3 mx-2 p-2'><FaSlidersH />Sliders</li>
+                <ul className={`${dMenu==11 ? '' : 'hidden'}`}>
+                
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Add Slider</li>
+                        
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />View Slider</li>
+                        
+                    
+                </ul>
+                <li className='flex items-center gap-3 mx-2 p-2'><BiLogoTelegram />Country</li>
+                <ul className={`${dMenu==12 ? '' : 'hidden'}`}>
+                    
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Add Country</li>
+                        
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />View Country</li>
+                        
+                    
+                </ul>
+                <li className='flex items-center gap-3 mx-2 p-2'><LuUserRoundPen />Testemonials</li>
+                <ul className={`${dMenu==13 ? '' : 'hidden'}`}>
+                    
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Add Testemonials</li>
+                        
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />View Testemonials</li>
+                
+                    
+                </ul>
+                <li className='flex items-center gap-3 mx-2 p-2'><SlEnvolopeLetter />Faqs</li>
+                <ul className={`${dMenu==14 ? '' : 'hidden'}`}>
+                    
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />Add Faqs</li>
+                      
+                        <li className='flex items-center gap-3 mx-2 p-2'><FaRegDotCircle />View Faqs</li>
+                        
+                    
+                </ul>
+                <li className='flex items-center gap-3 mx-2 p-2'><LuNotebookText />Terms & Conditions</li>
